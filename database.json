@@ -7,10 +7,11 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {
-    "https://gist.github.com/557b4477a69d2ae9600a73640e9ee6a4.git:dyio.groovy": [
-      "https://gist.github.com/557b4477a69d2ae9600a73640e9ee6a4.git",
-      "dyio.groovy"
-    ]
+  "studio-open-git": {},
+  "BowlerStudioConfigs": {
+    "firstVersion": "0.19.6",
+    "skinBranch": "master",
+    "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
+    "currentVersion": "0.19.6"
   }
 }
